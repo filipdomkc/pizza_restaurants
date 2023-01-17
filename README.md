@@ -10,7 +10,7 @@ There are also admin dashboard where admin can login with cookie auth and add/ed
     - Axios as HTTP client
     - ReduxToolkit for develompent of state app container in Redux
 
-[![My Skills](https://skillicons.dev/icons?i=css,js,mongodb,nextjs,nodejs,react,redux, git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,js,mongodb,nextjs,nodejs,react,redux,github&theme=dark)](https://skillicons.dev)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
